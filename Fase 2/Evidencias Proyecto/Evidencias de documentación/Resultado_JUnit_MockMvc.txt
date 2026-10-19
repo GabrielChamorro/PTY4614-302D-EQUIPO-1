@@ -1,0 +1,7 @@
+TimeFlow V0.3.3 - Evidencia JUnit / MockMvc
+Fecha de ejecución registrada: 06/10/2026
+
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0
+BUILD SUCCESS
+
+Las pruebas automatizadas cubren autenticación, acceso sin JWT, token modificado, permisos de trabajador, cuenta inactiva, tipo de tarea duplicado, tarea sin nombre, edición de tarea ajena, bloqueo de tarea finalizada y anuncios.
